@@ -1,1 +1,1 @@
-# software-design-course
+# Homeworks for 2nd year Java course
